@@ -1,6 +1,7 @@
 
 ## FreelancR
 FreelancR is an application which allows Developers and Customers to connect together to create something without the hassle of looking all over the web for the perfect fit. This application will allow the developers to find either a main source of income or even just an avenue of income to make on the side. As for the customers looking for a developer, they will be able to look up exactly the type of developer they need to help with their specific task.
+
 ## Table of Contents
 
 - [Dependencies](#dependencies)
@@ -8,6 +9,9 @@ FreelancR is an application which allows Developers and Customers to connect tog
 - [Deployment](#deployment)
 - [Built With](#built-with)
 - [License](#license)
+
+## Deployed application
+https://freelancr-gig.onrender.com
 
 ## Dependencies
 
